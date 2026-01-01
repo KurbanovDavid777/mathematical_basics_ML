@@ -76,11 +76,13 @@ mathematical_basics_ML/
 │ ├── lab01_pca.md
 │ ├── lab02_optimization.md
 │ ├── lab03_univariate_analysis.md
-│ ├── lab04_multivariate_analysis.md
-│ └── (при необходимости Jupyter notebooks с реализацией лабораторных)
+│ └── lab04_multivariate_analysis.md
+│ 
+├── notebooks/
+│ ├── Lab_1.ipynb
+│ ├── Lab_2.ipynb
+│ └── Lab_3__Lab_4.ipynb
 │
-├── README.md
-├── requirements.txt
-└── .gitignore
+└── README.md
 ```
 
