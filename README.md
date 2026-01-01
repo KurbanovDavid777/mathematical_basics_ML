@@ -84,9 +84,3 @@ mathematical_basics_ML/
 └── .gitignore
 ```
 
-### Technologies used
-
-- Python 3.x
-- Jupyter Notebook
-- numpy, pandas, matplotlib, seaborn
-- scikit-learn
