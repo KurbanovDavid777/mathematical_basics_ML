@@ -31,7 +31,7 @@
 
 ---
 
-## 🔎 Задачи лабораторной работы
+##  Задачи лабораторной работы
 
 ### 1. Первичный многомерный анализ
 
@@ -108,7 +108,7 @@ After analysis, the data is cleaned, transformed, and the model is retrained to 
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 
 - Use the same dataset from Lab 3, already cleaned using univariate analysis.
 - Goal: identify multivariate dependencies and prepare an improved dataset for modeling.
