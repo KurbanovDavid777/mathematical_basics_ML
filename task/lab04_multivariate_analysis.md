@@ -25,7 +25,7 @@
 
 ---
 
-##  Набор данных
+## Набор данных
 
 Используется тот же набор данных, что и в предыдущем задании (Lab 3). Данные уже подверглись одномерному анализу и очистке. Цель — выявить многомерные зависимости и подготовить улучшенный набор данных для модели.
 
@@ -35,8 +35,8 @@
 
 ### 1. Первичный многомерный анализ
 
-- **Корреляционная матрица и диаграммы рассеяния:** выявить линейные и нелинейные зависимости между переменными.
-- **Выявление мультиколлинеарности:** использовать коэффициент инфляции дисперсии (VIF) для обнаружения избыточных переменных.
+- **Корреляционная матрица и диаграммы рассеяния:** выявить линейные и нелинейные зависимости между переменными ($x_1, x_2, …, x_n$).
+- **Выявление мультиколлинеарности:** использовать коэффициент инфляции дисперсии ($\text{VIF}$) для обнаружения избыточных переменных.
 
 ---
 
@@ -46,7 +46,7 @@
 - **t-SNE (t-распределение стохастического соседства):** визуализация высокоразмерных данных в 2D/3D пространстве для выявления кластеров.
 - **UMAP (Универсальное приближение многообразия):** нелинейное уменьшение размерности с сохранением локальной структуры данных.
 - **Факторный анализ:** выявление скрытых факторов, описывающих основные структуры данных.
-- **Кластеризация:** использование k-means или иерархической кластеризации для выявления естественных группировок.
+- **Кластеризация:** использование $k$-means или иерархической кластеризации для выявления естественных группировок.
 
 ---
 
@@ -75,7 +75,7 @@
 
 ---
 
-##  Отчёт
+## Отчёт
 
 Отчёт должен содержать:
 
@@ -115,12 +115,12 @@ After analysis, the data is cleaned, transformed, and the model is retrained to 
 
 ---
 
-##  Tasks
+## Tasks
 
 ### 1. Initial Multivariate Analysis
 
-- **Correlation matrix and scatter plots:** detect linear and nonlinear dependencies.
-- **Multicollinearity detection:** use VIF to identify redundant predictors.
+- **Correlation matrix and scatter plots:** detect linear and nonlinear dependencies ($x_1, x_2, …, x_n$).
+- **Multicollinearity detection:** use $\text{VIF}$ to identify redundant predictors.
 
 ---
 
@@ -130,7 +130,7 @@ After analysis, the data is cleaned, transformed, and the model is retrained to 
 - **t-SNE:** visualize high-dimensional data in 2D/3D for cluster detection.
 - **UMAP:** nonlinear dimensionality reduction preserving local structure.
 - **Factor analysis:** identify latent factors representing data structure.
-- **Clustering:** k-means or hierarchical clustering for natural groupings.
+- **Clustering:** $k$-means or hierarchical clustering for natural groupings.
 
 ---
 
@@ -159,7 +159,7 @@ After analysis, the data is cleaned, transformed, and the model is retrained to 
 
 ---
 
-##  Deliverables
+## Deliverables
 
 - Jupyter Notebook with analysis code and model building.
 - Plots, tables, and visualizations documenting the multivariate analysis.
