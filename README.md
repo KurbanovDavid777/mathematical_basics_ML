@@ -3,7 +3,7 @@
 
 ---
 
-## 🇷🇺 Описание проекта
+## Описание проекта
 
 В этом репозитории собраны лабораторные работы по математическим методам и анализу данных для курсов по машинному обучению. Цель проекта — закрепление теоретических знаний через практическую реализацию алгоритмов и методов анализа данных.
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🇬🇧 Project Description
+## Project Description
 
 This repository contains laboratory works on mathematical methods and data analysis for machine learning courses. The goal is to reinforce theoretical knowledge by practical implementation of algorithms and data analysis techniques.
 
@@ -43,7 +43,7 @@ This repository contains laboratory works on mathematical methods and data analy
 
 ---
 
-## 🇷🇺 Инструкция по запуску
+## Инструкция по запуску
 
 1. Клонировать репозиторий: / Clone the repository:
 
