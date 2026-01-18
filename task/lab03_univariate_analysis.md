@@ -3,7 +3,7 @@
 
 ---
 
-## 🇷🇺 Описание лабораторной работы
+## Описание лабораторной работы
 
 ### Название
 **Лабораторная работа 3: Одномерный анализ данных для улучшения качества данных**
@@ -95,7 +95,7 @@
 
 ---
 
-## 🇬🇧 Task Description (English Version)
+## Task Description (English Version)
 
 ### Title
 **Laboratory Work 3: Univariate Data Analysis for Data Quality Improvement**
@@ -115,7 +115,7 @@ These operations improve data quality and enhance model performance.
 
 ---
 
-## 🗂 Dataset Requirements
+## Dataset Requirements
 
 - **Target variable ($y$)** — variable to predict.
 - **At least 5 predictor variables ($x_1, x_2, …$)**, continuous or discrete.
